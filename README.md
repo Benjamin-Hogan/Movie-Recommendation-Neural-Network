@@ -1,4 +1,4 @@
-# Movie-Recomendation-Neural-Network
+# Movie-Recommendation-Neural-Network
 ## Building a neural network that will predict a personal scores for movies
 
 This is done by importing data via an excel spreadsheet with the properties of:

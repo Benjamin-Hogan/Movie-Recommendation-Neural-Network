@@ -8,9 +8,9 @@ This is done by importing data via an excel spreadsheet with the properties of:
 4. Sub-Genre
 5. Personal score (a rating of of ten of how I liked the moive)
 
-I then one-hot encode the data and normalize the data
+I then one-hot encoded the data and normalized the data.
 
-I then split into my *inputs* and *labels* while having filters for the moives I have yet to have seen.
+After that I split the data into *inputs* and *labels* while having filters for the moives I have yet to see.
 
 Next, the data is again split into training and testing data.
 

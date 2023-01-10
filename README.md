@@ -8,7 +8,7 @@ This is done by importing data via an excel spreadsheet with the properties of:
 4. Sub-Genre
 5. Personal score (a rating of of ten of how I liked the moive)
 
-![alt text]Image 1-9-23 at 5.25 PM.jpeg
+![My Image](Image 1-9-23 at 5.25 PM.jpeg)
 
 
 I then one-hot encode the data and normalize the data

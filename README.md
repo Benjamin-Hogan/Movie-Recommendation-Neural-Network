@@ -8,6 +8,9 @@ This is done by importing data via an excel spreadsheet with the properties of:
 4. Sub-Genre
 5. Personal score (a rating of of ten of how I liked the moive)
 
+![alt text](https://github.com/Benjamin-Hogan/Movie-Recommendation-Neural-Network/edit/main/Image 1-9-23 at 5.25 PM.jpeg? raw=true)
+
+
 I then one-hot encode the data and normalize the data
 
 I then split into my *inputs* and *labels* while having filters for the moives I have yet to have seen.

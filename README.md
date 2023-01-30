@@ -20,4 +20,4 @@ I trained the network and then tested the network before giving the model the en
 
 The model then predicted the scores for all the moives including the ones that I  had yet to see. 
 
-This data was then outputed to a excel file. 
+This predictions are then outputed to a excel file. 
